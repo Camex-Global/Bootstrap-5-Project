@@ -1,0 +1,14 @@
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+
+
+#boxes .card {
+    min-height: 260px;
+}
+#learn img{
+
+}
